@@ -1,0 +1,2 @@
+  CHK     include/linux/version.h
+  CHK     include/generated/utsrelease.h
